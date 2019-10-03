@@ -1,0 +1,25 @@
+#user_form {
+    width: 300px;
+    margin-left: 40%;
+    margin-top: 20px;
+}
+
+#massages_list {
+    width: 90%;
+    margin-left: 5%;
+}
+
+#pagination {
+    text-align: center;
+}
+
+#captcha {
+    width: 75%;
+    float: left;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+#user_form input, #user_form img, #user_form textarea {
+    margin-top: 2px;
+}
